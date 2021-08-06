@@ -1,0 +1,6 @@
+---
+app_user: "sadmin"
+http_host: "finaltask"
+http_conf: "finaltask.conf"
+http_port: "80"
+disable_default: true
